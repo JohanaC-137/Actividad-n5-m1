@@ -1,0 +1,38 @@
+header {
+    background-color:darksalmon; 
+    color:white;}
+
+
+
+.container1{
+    background: antiquewhite;
+    border: solid;
+    border-color:white;
+    padding: 40px;
+    width: 90%; 
+    padding-top: 30px;
+    padding-right: 10px;  
+    padding-left: 10px;  
+    margin-right: auto;  
+    margin-left: auto;} 
+    
+.titulo{
+    background: darksalmon;
+    font-size: 30px;
+    color:antiquewhite;
+    padding: 5px;
+    margin: 10px;}
+
+.btn-group{
+    display:block;}
+
+button { 
+    background-image:url(img/gatito.jpg);
+    padding: 80px;
+    background-size: cover;
+    background-position: center;
+    margin: 5px;}
+
+#mostrar{
+    background: darksalmon;
+    padding: 10px;}
